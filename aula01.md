@@ -2,3 +2,5 @@
 
 ## Pacote Office
 
+# A primeira aula foi apenas apresentação dos alunos.
+
