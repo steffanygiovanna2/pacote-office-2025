@@ -13,7 +13,7 @@
 - **Alt = Tab:** Trocar de página.
 - **Ctrl + Tab:** Para trocar aba do google.
 
-- **esc:** Em programas: fecha menus, sai de caixas de diálogo ou cancela ações.
+- **Esc:** Em programas: fecha menus, sai de caixas de diálogo ou cancela ações.
 
             Em jogos: geralmente abre o menu de pausa ou configurações.
 
