@@ -27,6 +27,7 @@
 - **End:** Vai ir para o final da página.
 - **NumLock:** Bloquear o teclado de números.
 - **Tab:** Para dar "paragrafos" em textos.
+- **Ctrl + botão direito do mouse:** clicando no final da frase ou plalavra segurando o Ctrl e clicar no começo da frase ainda segurando o Ctrl tem a mesma função do shift + A, porém só vai marcar o que for selecionado.
 
    ## Simbolos do teclado:
 
