@@ -35,4 +35,14 @@
 
    ## Dicas:
 
-- **Alt** não serve de nada sem algum complemento, ou seja, você não consegue usar ele sem alguma tcla adicional por exemplo: *Alt + Tab*.
+- **Alt** Não serve de nada sem algum complemento, ou seja, você não consegue usar ele sem alguma tcla adicional por exemplo: *Alt + Tab*.
+
+  ## Sobre o microsoft word:
+- Editor/Processador de texto profissional.
+- Desenvolvido pela microsoft, primeira versão comercial conhecida em 1983, word 0.1.
+- Utiliza-se nas areas administrativas, financeiras, comerciais e etc.
+
+  ## Para estudos:
+- **Guias:** São os botãozinhos de cima, por emxemplo, pagina iniciar, design, ajuda, etc.
+- **Grupo:** São o conjunto de funções, por exemplo, paragrafo.
+- **Sub-Grupo:** Caixa completa criada para ferramentas
