@@ -1,7 +1,7 @@
 ### 08/09/2025
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?color=FFBBFF&size=22&center=true&vCenter=true&lines=Bons+estudos+Thamy+e+Steffany+💕!" />
+ <img src="https://readme-typing-svg.herokuapp.com/?color=FFBBFF&size=22&center=true&vCenter=true&speed=150&lines=Bons+estudos+Thamy+e+Steffany+💕!" />
 </p>
 
 # Pacote office.
