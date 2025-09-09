@@ -39,10 +39,15 @@
 
   ## Sobre o microsoft word:
 - Editor/Processador de texto profissional.
-- Desenvolvido pela microsoft, primeira versão comercial conhecida em 1983, word 0.1.
-- Utiliza-se nas areas administrativas, financeiras, comerciais e etc.
+- Desenvolvido pela microsoft, primeira versão comercial conhecida em 1983, word 1.0.
+- Utiliza-se nas áreas administrativas, financeiras, comerciais e etc.
 
   ## Para estudos:
-- **Guias:** São os botãozinhos de cima, por emxemplo, pagina iniciar, design, ajuda, etc.
+- **Guias/abas:** Onde fica os grupos e sub-grupos.
 - **Grupo:** São o conjunto de funções, por exemplo, paragrafo.
-- **Sub-Grupo:** Caixa completa criada para ferramentas
+- **Sub-Grupo:** Caixa completa criada para ferramentas.
+- **Ctrl + B:** Para salvar.
+- **Ctrl + S:** Para salvar como.
+
+
+- Para usar o **alt + "tecla numerica"** precisa ser o teclado de números e não o de cima, para funcionar, clica no atalho e solta.
