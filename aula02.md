@@ -13,7 +13,7 @@
 - **Alt = Tab:** Trocar de página.
 - **Ctrl + Tab:** Para trocar aba do google.
 
-- **esc:** Em programas: fecha menus, sai de caixas de diálogo ou cancela ações.
+- **Esc:** Em programas: fecha menus, sai de caixas de diálogo ou cancela ações.
 
             Em jogos: geralmente abre o menu de pausa ou configurações.
 
@@ -27,6 +27,7 @@
 - **End:** Vai ir para o final da página.
 - **NumLock:** Bloquear o teclado de números.
 - **Tab:** Para dar "paragrafos" em textos.
+- **Shift + botão direito do mouse:** clicando no final da frase ou plalavra e clicar no começo da frase segurando o Shift tem a mesma função do shift + A, porém só vai marcar o que for selecionado.
 
    ## Simbolos do teclado:
 
