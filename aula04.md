@@ -10,5 +10,3 @@
 
 - Lista de némeros e letras:
 1.  (1. ou a.)
-
-2.  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6A6dea1K3BsC5IQH1CNrMlr5xT2D465DwtQ&s" alt="Jaguar lindo" width="400">
